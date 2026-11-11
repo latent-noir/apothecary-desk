@@ -1,4 +1,4 @@
-# Apothecary Desk
+# 💊 Apothecary Desk — Pharmacy Back-Office
 
 Application de gestion de pharmacie 
 
@@ -11,7 +11,7 @@ Application de gestion de pharmacie
 ## Structure du Projet
 
 ```
-Apothecary Desk/
+apothecary-desk/
 ├── backend/          # API Django REST Framework
 │   ├── config/       # Configuration du projet
 │   ├── apps/         # Applications Django
